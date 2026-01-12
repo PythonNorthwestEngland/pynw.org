@@ -4,7 +4,11 @@ miss out.
 
 ## Upcoming events
 
-- **January 2026** - TBC
+- **Tues 27 January 2026** - Social TBC
+
+- **February 2026** - Coworking session TBC
+
+- **February 2026** - TBC
 
 ## Past events
 
