@@ -17,4 +17,4 @@ miss out.
 ## Call for participation
 
 If you have a talk you'd like to give, or a workshop you'd like to run, please let us know and we'll
-see if we can fit it into our schedule. Send an email to **ben [at] bennuttall.com**
+see if we can fit it into our schedule. Send an email to **pythonnw [at] gmail.com**

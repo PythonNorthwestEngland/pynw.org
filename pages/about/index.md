@@ -9,4 +9,4 @@ The group is currently organised by [Ben Nuttall](https://www.linkedin.com/in/be
 
 ## Contact us
 
-Send an email to **ben [at] bennuttall.com**
+Send an email to **pythonnw [at] gmail.com**

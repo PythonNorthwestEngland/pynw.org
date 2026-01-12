@@ -13,4 +13,4 @@ with our community and might lead to your next hire from our membership.
 
 ## Contact us
 
-Send an email to **ben [at] bennuttall.com** to discuss sponsorship options
+Send an email to **pythonnw [at] gmail.com** to discuss sponsorship options
