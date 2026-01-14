@@ -4,9 +4,7 @@ miss out.
 
 ## Upcoming events
 
-- **Tues 27 January 2026** - Social TBC
-
-- **February 2026** - Coworking session TBC
+- **Tues 27 January 2026** - Social at North Bar [[tickets](https://pythonnwjan2026.eventbrite.com)]
 
 - **February 2026** - TBC
 
